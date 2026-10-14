@@ -12,4 +12,3 @@ Cybersecurity student at the University of South Florida (Bellini College), grad
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/aiden-palladino
-- Email: aidenpalladino@gmail.com
