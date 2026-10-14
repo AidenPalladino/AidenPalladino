@@ -9,6 +9,7 @@ Cybersecurity student at the University of South Florida (Bellini College), grad
 ## Projects
 - **[SSH Brute-Force Detector](https://github.com/AidenPalladino/ssh-bruteforce-detector)** — Python script that parses Linux auth logs and flags brute-force attackers
 - **[HTB Write-ups](https://github.com/AidenPalladino/HTB-Writeups)** — Walkthroughs of Hack The Box machines I've completed
+- **[AWS VPC & Web Server](https://github.com/AidenPalladino/aws-vpc-web-server)** — Built a custom AWS network with public/private subnets across two Availability Zones and deployed a web server behind a least-privilege firewall
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/aiden-palladino
