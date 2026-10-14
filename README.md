@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Aiden 
 
-<!--
-**AidenPalladino/AidenPalladino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student at the University of South Florida (Bellini College), graduating December 2027.
 
-Here are some ideas to get you started:
+- Interested in SOC analysis, detection, and penetration testing
+- Currently building security projects in Python and working through Hack The Box
+- Member of Whitehatters, USF's cybersecurity club
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[SSH Brute-Force Detector](https://github.com/AidenPalladino/ssh-bruteforce-detector)** — Python script that parses Linux auth logs and flags brute-force attackers
+- **[HTB Write-ups](https://github.com/AidenPalladino/HTB-Writeups)** — Walkthroughs of Hack The Box machines I've completed
+
+## Contact
+- LinkedIn: www.linkedin.com/in/aiden-palladino
+- Email: aidenpalladino@gmail.com
