@@ -1,7 +1,11 @@
 # Hi, I'm Aiden 
 
 Cybersecurity student at the University of South Florida (Bellini College), graduating December 2027. Dean's List, Fall 2025 and Spring 2026.
+
+
 🌐 **Portfolio:** [aidenpalladino.github.io](https://aidenpalladino.github.io)
+
+
 ## What I'm focused on
 - SOC analysis, threat detection, and penetration testing
 - Currently seeking cybersecurity internships
