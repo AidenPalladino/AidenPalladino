@@ -22,6 +22,7 @@ Cybersecurity student at the University of South Florida (Bellini College), grad
 - **[AWS VPC & Web Server](https://github.com/AidenPalladino/aws-vpc-web-server):** Custom AWS network with public/private subnets across two Availability Zones and a web server behind a least-privilege firewall
 - **[HTB Write-ups](https://github.com/AidenPalladino/HTB-Writeups):** walkthroughs of Hack The Box machines I've completed
 - **[File Integrity Monitor](https://github.com/AidenPalladino/file-integrity-monitor)** — Python tool that uses SHA-256 hashes to detect added, modified, and deleted files
+- **[Suricata IDS Lab](https://github.com/AidenPalladino/suricata-ids-lab):** Set up Suricata to analyze captured traffic, wrote a custom detection rule, and triaged the alerts
 
 ## Skills
 Python · C/C++ · Nmap · Metasploit · Wireshark · Kali Linux · Windows Event Viewer · MITRE ATT&CK · STIX · AWS · Log Analysis
