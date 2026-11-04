@@ -2,7 +2,7 @@
 
 Cybersecurity student at USF (Bellini College), graduating December 2027. Interested in SOC work and threat detection, and looking for a cybersecurity internship for summer 2027.
 
-Portfolio: [aidenpalladino.github.io](https://aidenpalladino.github.io) · [LinkedIn](https://linkedin.com/in/aiden-palladino)
+Portfolio: [aidenpalladino.github.io](https://aidenpalladino.github.io)
 
 ## Projects
 
