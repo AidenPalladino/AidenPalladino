@@ -6,7 +6,7 @@ Portfolio: [aidenpalladino.github.io](https://aidenpalladino.github.io)
 
 ## Projects
 
-- [AWS Labs](https://github.com/AidenPalladino/aws-labs): AWS Academy labs on building a VPC, locking it down with security groups and NACLs, and alerting with CloudTrail and CloudWatch
+- [AWS Labs](https://github.com/AidenPalladino/aws-labs): three AWS Academy labs: building a VPC with a web server, restricting access with security groups and NACLs, and alerting on account activity with CloudTrail and CloudWatch
 - [Suricata IDS Lab](https://github.com/AidenPalladino/suricata-ids-lab): ran my own captured traffic through Suricata and wrote a custom rule
 - [HTB Write-ups](https://github.com/AidenPalladino/HTB-Writeups): Hack The Box machine and Academy module write-ups
 - [SSH Brute-Force Detector](https://github.com/AidenPalladino/ssh-bruteforce-detector): Python script that flags brute-force IPs in `auth.log`
