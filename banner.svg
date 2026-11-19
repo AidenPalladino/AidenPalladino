@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#0a1a2a"/>
+      <stop offset="1" stop-color="#07131f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#39d0d8"/>
+      <stop offset="1" stop-color="#1f6feb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="url(#bg)"/>
+  <g stroke="#15283a" stroke-width="1">
+    <line x1="0" y1="75" x2="1200" y2="75"/><line x1="0" y1="150" x2="1200" y2="150"/><line x1="0" y1="225" x2="1200" y2="225"/>
+    <line x1="300" y1="0" x2="300" y2="300"/><line x1="600" y1="0" x2="600" y2="300"/><line x1="900" y1="0" x2="900" y2="300"/>
+  </g>
+  <rect x="0" y="0" width="8" height="300" rx="4" fill="url(#accent)"/>
+  <text x="56" y="92" fill="#39d0d8" font-size="20" font-family="monospace">aiden@security:~$ whoami</text>
+  <text x="54" y="168" fill="#f0f6fc" font-size="62" font-weight="700">Aiden Palladino</text>
+  <text x="56" y="210" fill="#9fb3c8" font-size="26" font-weight="500">Cybersecurity Student · SOC &amp; Security Operations</text>
+  <g font-size="18" font-weight="600">
+    <g><rect x="56" y="238" width="168" height="34" rx="17" fill="#0e2230" stroke="#2b8fa6"/><text x="140" y="261" fill="#56d4dd" text-anchor="middle">USF Bellini</text></g>
+    <g><rect x="236" y="238" width="150" height="34" rx="17" fill="#0e2230" stroke="#2b8fa6"/><text x="311" y="261" fill="#56d4dd" text-anchor="middle">GPA 3.82</text></g>
+    <g><rect x="398" y="238" width="168" height="34" rx="17" fill="#0e2230" stroke="#2b8fa6"/><text x="482" y="261" fill="#56d4dd" text-anchor="middle">Dean's List</text></g>
+    <g><rect x="578" y="238" width="206" height="34" rx="17" fill="#0e2230" stroke="#2b8fa6"/><text x="681" y="261" fill="#56d4dd" text-anchor="middle">ReliaQuest Labs</text></g>
+    <g><rect x="796" y="238" width="232" height="34" rx="17" fill="#0e2230" stroke="#2b8fa6"/><text x="912" y="261" fill="#56d4dd" text-anchor="middle">Security+ (in progress)</text></g>
+    <g><rect x="1040" y="238" width="120" height="34" rx="17" fill="#0e2230" stroke="#2b8fa6"/><text x="1100" y="261" fill="#56d4dd" text-anchor="middle">Busser</text></g>
+  </g>
+</svg>

@@ -1,8 +1,14 @@
-# Aiden Palladino
+<p align="center">
+  <img src="banner.png" alt="Aiden Palladino — Cybersecurity Student, SOC & Security Operations" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aiden-palladino"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://aidenpalladino.github.io"><img src="https://img.shields.io/badge/Portfolio-0E2230?style=for-the-badge&logo=githubpages&logoColor=39D0D8" alt="Portfolio"></a>
+  <a href="mailto:aidenpalladino@usf.edu"><img src="https://img.shields.io/badge/Email-0E2230?style=for-the-badge&logo=gmail&logoColor=39D0D8" alt="Email"></a>
+</p>
 
 Cybersecurity student at USF (Bellini College), graduating December 2027. Interested in SOC work and threat detection, and open to cybersecurity internships.
-
-Portfolio: [aidenpalladino.github.io](https://aidenpalladino.github.io)
 
 ## Projects
 
@@ -16,5 +22,6 @@ Portfolio: [aidenpalladino.github.io](https://aidenpalladino.github.io)
 
 - USF Hack The Box CTF (Spring 2026): solved 7 challenges with a 3-person team
 - ReliaQuest Security Operations Labs (Fall 2026)
+- Completed Deloitte's Cyber Job Simulation (Forage)
 - Studying for CompTIA Security+
 - Member of Whitehatters, USF's security club
