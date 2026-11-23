@@ -13,9 +13,8 @@ Cybersecurity student at USF (Bellini College), graduating December 2027. Intere
 ## Projects
 
 - [AWS Labs](https://github.com/AidenPalladino/aws-labs): three AWS Academy labs: building a VPC with a web server, restricting access with security groups and NACLs, and alerting on account activity with CloudTrail and CloudWatch
-- [Suricata IDS Lab](https://github.com/AidenPalladino/suricata-ids-lab): ran my own captured traffic through Suricata and wrote a custom rule
+- **Detection Labs** — a Python tool that flags SSH brute-force attempts in `auth.log` (validated against a live Hydra attack) and a Suricata IDS with a custom rule tested on my own traffic: [SSH Brute-Force Detector](https://github.com/AidenPalladino/ssh-bruteforce-detector) &middot; [Suricata IDS Lab](https://github.com/AidenPalladino/suricata-ids-lab)
 - [HTB Write-ups](https://github.com/AidenPalladino/HTB-Writeups): Hack The Box machine and Academy module write-ups
-- [SSH Brute-Force Detector](https://github.com/AidenPalladino/ssh-bruteforce-detector): Python script that flags brute-force IPs in `auth.log`
 - [File Integrity Monitor](https://github.com/AidenPalladino/file-integrity-monitor): Python script that uses SHA-256 hashes to catch added, changed, and deleted files
 
 ## Other
